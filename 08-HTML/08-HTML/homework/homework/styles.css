@@ -1,0 +1,21 @@
+*{
+    background-color:darkolivegreen ;
+}
+.Milanesa {
+    width: 600px;
+    height: 600px;
+}
+.Hamburguesa {
+    width: 500px;
+    height: 600px;
+}
+.Tercer-div {
+    background-color: black;
+    padding: 50px;
+    border: rgb(0, 191, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hola {
+    font-style: 25px;
+    margin: 50px;
+}
